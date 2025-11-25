@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yann\\source\\repos\\leosouza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|c:\\users\\yann\\source\\repos\\leosouza\\leosouza\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8901A63A-2AEB-4DA6-881B-938B573BD685}|leosouza\\leosouza.csproj|solutionrelative:leosouza\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form6.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form6.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form6.cs [Design]",
+              "RelativeToolTip": "leosouza\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:37:14.237Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form5.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form5.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form5.cs",
+              "RelativeToolTip": "leosouza\\Form5.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA2wCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:36:31.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form5.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form5.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form5.cs [Design]",
+              "RelativeToolTip": "leosouza\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:36:15.605Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form3.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form3.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form3.cs",
+              "RelativeToolTip": "leosouza\\Form3.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:34:36.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form1.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form1.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form1.cs [Design]",
+              "RelativeToolTip": "leosouza\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:30:21.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form1.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form1.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form1.cs",
+              "RelativeToolTip": "leosouza\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvzMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:32:53.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form4.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form4.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form4.cs [Design]",
+              "RelativeToolTip": "leosouza\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:35:02.987Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form2.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form2.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form2.cs [Design]",
+              "RelativeToolTip": "leosouza\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:30:56.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form2.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form2.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form2.cs",
+              "RelativeToolTip": "leosouza\\Form2.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:31:01.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form3.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form3.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form3.cs [Design]",
+              "RelativeToolTip": "leosouza\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:34:20.484Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form4.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form4.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form4.cs",
+              "RelativeToolTip": "leosouza\\Form4.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:35:14.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form8.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form8.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form8.cs",
+              "RelativeToolTip": "leosouza\\Form8.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:39:24.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form6.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form6.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form6.cs",
+              "RelativeToolTip": "leosouza\\Form6.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:37:29.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form7.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form7.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form7.cs [Design]",
+              "RelativeToolTip": "leosouza\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:37:59.488Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form7.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form7.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form7.cs",
+              "RelativeToolTip": "leosouza\\Form7.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:38:19.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form8.cs",
+              "RelativeDocumentMoniker": "leosouza\\Form8.cs",
+              "ToolTip": "C:\\Users\\Yann\\source\\repos\\leosouza\\leosouza\\Form8.cs [Design]",
+              "RelativeToolTip": "leosouza\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:38:53.795Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
